@@ -1,0 +1,18 @@
+.title_container{        
+    background: #FF7043;
+    border:5px solid #FF5722;
+    box-shadow: 0px 4px 4px #BF360C;
+    border-radius: 8px;    
+}
+
+.title_container p {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 37px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.505em;
+    color: #FFFFFF;
+    padding: 4px 0;
+}
